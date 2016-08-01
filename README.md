@@ -1,6 +1,6 @@
-# Here are my blog on github
+# GITHUB HOME
 
-my home [helloworld](https://github.com/gotgithub/helloworld) ，
+kelly_Lok [helloworld](https://github.com/gotgithub/helloworld) ，
 **welcome to access!**
 
 ## 01_routine
@@ -17,8 +17,6 @@ The directory is my note in the pursuit of knowledge, which is contain ``network
  - 03_algorithm: `https://github.com/kellylok/helloworld/tree/develop/02_studyNote/03_algorithm` 
  - 04_TCP-IP: `https://github.com/kellylok/helloworld/tree/develop/02_studyNote/04_TCP-IP` 
  - 05_editor: `https://github.com/kellylok/helloworld/tree/develop/02_studyNote/05_editor` 
-
-    $ git clone git://github.com/gotgithub/helloworld.git
 
 ## 03_essay
 
