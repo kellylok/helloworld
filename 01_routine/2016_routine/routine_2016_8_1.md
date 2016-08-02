@@ -36,16 +36,18 @@
 ***
 
 + Monday
--[x] Completed the linklist
--[x] Study the setsockopt
--[x] Study ADT in stack and the application of it
--[x] Sort out file on github
+
+- [x] Completed the linklist
+- [x] Study the setsockopt
+- [x] Study ADT in stack and the application of it
+- [x] Sort out file on github
 
 + Tuesday
--[] Study the queue
--[] Reading the interface of socket
--[] Impletement Stack and Queue in C
--[] test except and assert in C
+
+- [ ] Study the queue
+- [ ] Reading the interface of socket
+- [ ] Impletement Stack and Queue in C
+- [ ] test except and assert in C
 
 + Wednesday
 + Thursday
