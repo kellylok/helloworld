@@ -44,7 +44,7 @@
 
 + Tuesday
 
-- [ ] Study the queue
+- [x] Study the queue
 - [ ] Reading the interface of socket
 - [ ] Impletement Stack and Queue in C
 - [ ] test except and assert in C
