@@ -51,8 +51,10 @@
 
 + Wednesday
 
- - [ ] Impletement Stack and Queue in C
- - [ ] Impletement except and assert interface
+ - [x] Impletement Stack and Queue in C
+ - [x] Impletement except and assert interface
+ 
+I have completed the interface of except and assert, but can't understand thoroughly. In addition, I have implemented the link stack.
 
 + Thursday
 + Friday
