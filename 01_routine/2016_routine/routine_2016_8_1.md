@@ -37,22 +37,22 @@
 
 + Monday
 
-- [x] Completed the linklist
-- [x] Study the setsockopt
-- [x] Study ADT in stack and the application of it
-- [x] Sort out file on github
+ - [x] Completed the linklist
+ - [x] Study the setsockopt
+ - [x] Study ADT in stack and the application of it
+ - [x] Sort out file on github
 
 + Tuesday
 
-- [x] Study the queue
-- [x] Reading the interface of socket
-- [x] learning except and assert but not coding
-- [x] learning Divide-and-Conquer, but not quite understand
+ - [x] Study the queue
+ - [x] Reading the interface of socket
+ - [x] learning except and assert but not coding
+ - [x] learning Divide-and-Conquer, but not quite understand
 
 + Wednesday
 
-- [ ] Impletement Stack and Queue in C
-- [ ] Impletement except and assert interface
+ - [ ] Impletement Stack and Queue in C
+ - [ ] Impletement except and assert interface
 
 + Thursday
 + Friday
