@@ -44,12 +44,16 @@
 
 + Tuesday
 
-- [ ] Study the queue
-- [ ] Reading the interface of socket
-- [ ] Impletement Stack and Queue in C
-- [ ] test except and assert in C
+- [x] Study the queue
+- [x] Reading the interface of socket
+- [x] learning except and assert but not coding
+- [x] learning Divide-and-Conquer, but not quite understand
 
 + Wednesday
+
+- [ ] Impletement Stack and Queue in C
+- [ ] Impletement except and assert interface
+
 + Thursday
 + Friday
 + Satureday
