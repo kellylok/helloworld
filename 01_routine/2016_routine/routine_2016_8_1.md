@@ -46,17 +46,24 @@
 
  - [x] Study the queue
  - [x] Reading the interface of socket
+
++ Wednesday
+
  - [x] learning except and assert but not coding
  - [x] learning Divide-and-Conquer, but not quite understand
 
-+ Wednesday
++ Thursday
 
  - [x] Impletement Stack and Queue in C
  - [x] Impletement except and assert interface
  
 I have completed the interface of except and assert, but can't understand thoroughly. In addition, I have implemented the link stack.
 
-+ Thursday
 + Friday
+
+ - [ ] study the third chapter: internet protocol.
+ - [ ] To sum up what I had done learned in this week.
+ - [ ] writting a tutorial blog about socket.
+
 + Satureday
 + Sunday
