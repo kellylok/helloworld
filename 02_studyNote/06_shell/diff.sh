@@ -27,7 +27,7 @@ if [ -f $record_md5 ] && [ -f $check_md5 ];then
 		echo "$Status"
 		exit
 	else
-		echo "文件修改过了!"
+		echo "file have been modified!"
 		cat $check_log > $record_log
 	fi
 fi
