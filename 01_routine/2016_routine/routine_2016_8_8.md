@@ -33,7 +33,7 @@
  - [x] data structure of tree, note that it is entire chapter.
  - [x] review c++ basic syntax
  
-I had learned data structure of tree, including build and traverse a binary tree.
+I had learned data structure of tree and javascript of function, as well reveiwed C++ course. The content including build and traverse a binary tree.
 
 + Tuesday
  - [ ] review c++ basic syntax, the remaining content.
