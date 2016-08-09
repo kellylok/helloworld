@@ -36,6 +36,13 @@
 I had learned data structure of tree and javascript of function, as well reveiwed C++ course. The content including build and traverse a binary tree.
 
 + Tuesday
- - [ ] review c++ basic syntax, the remaining content.
- - [ ] data structure of tree, coding by it.
+ - [x] review c++ basic syntax, the remaining content.
+ - [x] data structure of tree, coding by it.
+ 
+The time passes all too quickly when I am study. I am busy in working and learning, but I lead a fulfilled life. Today, I learn a new thing that is lambda expression, which appearing is in order to support functional programming for cplusplus. Besides, I review the cplusplus extension of c language. I think a thought that how shold I learn technological knowledge efficiently. As far as I am concerned, firstly, as a new knowledge, we shold think why it appears, the solution will tell us a few available information, for instance, its application and its properties. secondly, we shold grasp it quickly, it means we shold learn to applicate flexibly. How to do? We can refer to the offical manual and the sample, only if we can use it, can we understand it. Thirldly, we are supposed to analyze its mechanism properly. When learning a new technology, we ought to set a goal or establish plan to applicate it accomplish some thing, this is contributed to keep in mind, as well as only this can let it become the knowledge by yours.
+ 
++ Wednesday
+ - [ ] management of process and schedule
+ - [ ] TCP client-server demo
+ - [ ] continue to review c++, class and object
 
