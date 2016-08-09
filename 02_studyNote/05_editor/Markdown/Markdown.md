@@ -5,6 +5,7 @@
  + [区元素](#1.2)
  + [杂项](#1.3)
 2. [表格](#2)
+3. [目录](#3)
 
 <h2 id="1">Markdown简介</h2>
 
@@ -196,3 +197,50 @@
  | Pipe     | $1    |  234  |
 
 注意：第二行的冒号决定了居左居右还是居中，如果不加冒号，默认是居左的。
+
+<h2 id="3">目录</h2>
+
+The method to generate directory:
+
+```directory
+1. [Markdown简介](#1)
+ + [块元素](#1.1)
+ + [区元素](#1.2)
+ + [杂项](#1.3)
+2. [表格](#2)
+3. [目录](#3)
+```
+
+On content, we should add the id for chapter titles, in instance: 
+
+```directory
+<h2 id="1">Markdown简介</h2>
+  <h3 id="1.1">块元素</h3>
+  <h3 id="1.2">区元素</h3>
+  <h3 id="1.3">杂项</h3>
+<h2 id="2">表格</h2>
+<h2 id="3">目录</h2>
+```
+
+As well, on gitgub, we can use titlecase for caption, and lower case for tag. for eample:  
+
+```directory
+1. [Installation](#installation)
+1. [Options](#options)
+1. [Mappings](#mappings)
+1. [Commands](#commands)
+1. [Credits](#credits)
+1. [License](#license)
+```
+
+```directory
+## Installation
+## Options
+## Mappings
+## Commands
+## Credits
+## License
+```
+
+Note that it is no effect in preview mode unless you commit it.
+
