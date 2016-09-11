@@ -1,0 +1,48 @@
+```
+/**
+ * date: 2016/8/8
+ */
+```
+ 
+## 8.8~8.14计划目标
+制定每天的计划，让自己的目标更加明确，但是由于不合理的安排，上个星期的目标只完成70%，编码工作也不够，这些说明自己的执行力有欠缺。还有，就是毕业论文一直拖延，渐渐发现自己同样有拖延的毛病，这点要尽量地克制自己。坚持把一些好的行为变成自己的习惯，这样才能变得更加优秀，尽量合理地安排时间，不要继续过着那种每天都很忙，但是不知忙什么的瞎忙，不但没有进步，更浪费时间，还不如利用这些时间去看看笑话，至少还能收获一份好心情呢。多看书，多做笔记，将新的知识加上自己的理解记录下来，这样才能让书上的内容变成自己的知识库。Hey!Guy, This is a great beginning.
+
+### 大话数据结构
+ + 第六章 树
+ + 第七章 图
+
+### C++和数据库
+复习C++，搭建C++的知识架构 《C++ cookbook》 
+复习oracle/mysql数据库的sql语法
+
+### 深入Linux内核架构
+ + 进程管理和调度
+ + 内存管理
+ 
+### 网络编程卷一
+ + 第5章 TCP客户端-服务器程序例子
+ + 第6章 I/O复用：select 和 poll函数
+
+### 编码工作
+ + ftp
+ + 网络爬虫
+
+***
+
++ Monday
+ - [x] data structure of tree, note that it is entire chapter.
+ - [x] review c++ basic syntax
+ 
+I had learned data structure of tree and javascript of function, as well reveiwed C++ course. The content including build and traverse a binary tree.
+
++ Tuesday
+ - [x] review c++ basic syntax, the remaining content.
+ - [x] data structure of tree, coding by it.
+ 
+The time passes all too quickly when I am study. I am busy in working and learning, but I lead a fulfilled life. Today, I learn a new thing that is lambda expression, which appearing is in order to support functional programming for cplusplus. Besides, I review the cplusplus extension of c language. I think a thought that how shold I learn technological knowledge efficiently. As far as I am concerned, firstly, as a new knowledge, we shold think why it appears, the solution will tell us a few available information, for instance, its application and its properties. secondly, we shold grasp it quickly, it means we shold learn to applicate flexibly. How to do? We can refer to the offical manual and the sample, only if we can use it, can we understand it. Thirldly, we are supposed to analyze its mechanism properly. When learning a new technology, we ought to set a goal or establish plan to applicate it accomplish some thing, this is contributed to keep in mind, as well as only this can let it become the knowledge by yours.
+ 
++ Wednesday
+ - [ ] management of process and schedule
+ - [ ] TCP client-server demo
+ - [ ] continue to review c++, class and object
+
